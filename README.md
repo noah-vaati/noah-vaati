@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noah-vaati
+- 👋 Hi, I’m Noah Redden (@noah-vaati)
 - 👀 I’m interested in Game Programming, Technical Writing...
 - 📫 noahred99@gmail.com
 
